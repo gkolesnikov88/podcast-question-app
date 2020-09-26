@@ -1,1 +1,1 @@
-Site with questions input in pure JS
+Site with questions input in pure JS.
